@@ -4,26 +4,26 @@
 
 ## import `deno 🦖`
 ```js
-import * as coolors from 'https://deno.land/x/coolors@1.0.0/mod.js';
+import * as coolors from 'https://deno.land/x/coolors@v1.0.0/mod.js';
 ```
 
 **SLIME:** smth like-
 
 ```
-import * as coolors from 'https://deno.land/x/coolors@1.0.0/mod.js';
+import * as coolors from 'https://deno.land/x/coolors@v1.0.0/mod.js';
 
 console.log(coolors.cyan('hey! i am cyan!'))
 ```
 
 ## or Just import a coolor
 ```js
-import {cyan} from 'https://deno.land/x/coolors@1.0.0/mod.js';
+import {cyan} from 'https://deno.land/x/coolors@v1.0.0/mod.js';
 ```
 
 **SLIME:** smth like-
 
 ```js
-import {cyan} from 'https://deno.land/x/coolors@1.0.0/mod.js';
+import {cyan} from 'https://deno.land/x/coolors@v1.0.0/mod.js';
 
 console.log(cyan('hey! i am cyan!'))
 ```
