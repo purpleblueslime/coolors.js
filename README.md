@@ -9,7 +9,7 @@ import * as coolors from 'https://deno.land/x/coolors@v1.0.0/mod.js';
 
 **SLIME:** smth like-
 
-```
+```js
 import * as coolors from 'https://deno.land/x/coolors@v1.0.0/mod.js';
 
 console.log(coolors.cyan('hey! i am cyan!'))
